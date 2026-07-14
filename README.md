@@ -9,6 +9,4 @@
 |---:|---|---|---|
 | 01 | [Ubuntu 기반 홈 게임 서버 인프라 구축](./portfolio/home-game-server/README.md) | 서버 · 네트워크 · 인프라 | 운영 및 문서화 진행 중 |
 
-1. [Ubuntu 기반 홈 게임 서버 인프라 구축](./portfolio/home-game-server/README.md)
-
 ---
