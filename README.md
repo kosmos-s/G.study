@@ -1,6 +1,6 @@
 # G.study
 
-나의 개발자 공부방
+나의 공부방
 
 ## Portfolio
 
