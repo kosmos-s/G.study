@@ -1,0 +1,56 @@
+# Source Manifest
+
+아래는 v2.7.2 전체 소스 스냅샷의 파일 목록입니다. 실제 소스는 `source/`의 네 ZIP에 분할 보관되어 있습니다.
+
+- `.gitignore`
+- `README.md`
+- `default.project.json`
+- `docs/ARCHITECTURE.md`
+- `docs/ART_DIRECTION.md`
+- `docs/DEVELOPMENT_HISTORY.md`
+- `docs/ROADMAP.md`
+- `docs/SETUP.md`
+- `docs/TESTING.md`
+- `docs/images/level-up-ui-prototype.png`
+- `src/ReplicatedStorage/Modules/AbilityData.lua`
+- `src/ReplicatedStorage/Modules/DifficultyData.lua`
+- `src/ReplicatedStorage/Modules/EnemyData.lua`
+- `src/ReplicatedStorage/Modules/EvolutionData.lua`
+- `src/ReplicatedStorage/Modules/GachaData.lua`
+- `src/ReplicatedStorage/Modules/GameInfo.lua`
+- `src/ReplicatedStorage/Modules/InventoryData.lua`
+- `src/ReplicatedStorage/Modules/ItemData.lua`
+- `src/ReplicatedStorage/Modules/JobData.lua`
+- `src/ReplicatedStorage/Modules/LobbyData.lua`
+- `src/ReplicatedStorage/Modules/MetaUpgradeData.lua`
+- `src/ReplicatedStorage/Modules/PickupData.lua`
+- `src/ReplicatedStorage/Modules/PlayerStats.lua`
+- `src/ReplicatedStorage/Modules/QuestData.lua`
+- `src/ReplicatedStorage/Modules/RankingData.lua`
+- `src/ReplicatedStorage/Modules/RobuxProductData.lua`
+- `src/ReplicatedStorage/Modules/SaveSchema.lua`
+- `src/ReplicatedStorage/Modules/ShopData.lua`
+- `src/ReplicatedStorage/Modules/SkillData.lua`
+- `src/ReplicatedStorage/Modules/SoundData.lua`
+- `src/ReplicatedStorage/Modules/SurvivalData.lua`
+- `src/ReplicatedStorage/Modules/TradeData.lua`
+- `src/ReplicatedStorage/Modules/VisualConfig.lua`
+- `src/ReplicatedStorage/Modules/WeaponData.lua`
+- `src/ServerScriptService/DamageHandler.lua`
+- `src/ServerScriptService/DataManager.lua`
+- `src/ServerScriptService/EnemySpawner.lua`
+- `src/ServerScriptService/GachaManager.lua`
+- `src/ServerScriptService/GameManager.server.lua`
+- `src/ServerScriptService/InventoryManager.lua`
+- `src/ServerScriptService/MapBuilder.lua`
+- `src/ServerScriptService/MetaProgressionManager.lua`
+- `src/ServerScriptService/PickupManager.lua`
+- `src/ServerScriptService/ProjectileManager.lua`
+- `src/ServerScriptService/QuestManager.lua`
+- `src/ServerScriptService/RankingManager.lua`
+- `src/ServerScriptService/RewardManager.lua`
+- `src/ServerScriptService/ShopManager.lua`
+- `src/ServerScriptService/SurvivalManager.lua`
+- `src/ServerScriptService/TradeManager.lua`
+- `src/StarterPlayer/StarterPlayerScripts/ClientController.client.lua`
+- `src/StarterPlayer/StarterPlayerScripts/V270ClientAddon.client.lua`

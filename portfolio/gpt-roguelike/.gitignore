@@ -1,0 +1,19 @@
+# Roblox Studio local files
+*.rbxl.lock
+*.rbxlx.lock
+
+# Rojo build output
+build/
+*.rbxl
+*.rbxlx
+*.rbxm
+*.rbxmx
+
+# Editor / OS
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Logs / temporary files
+*.log
+tmp/
