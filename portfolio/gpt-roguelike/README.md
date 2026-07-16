@@ -102,6 +102,7 @@ StarterPlayerScripts
 | [ROADMAP](ROADMAP.md) | 완료·검증·진행·계획 구분 |
 | [개발 과정](docs/DEVELOPMENT_HISTORY.md) | 프로젝트 발전 과정과 판단 |
 | [아키텍처](docs/ARCHITECTURE.md) | 시스템 구성과 기술 부채 |
+| [문제 해결 기록](docs/TROUBLESHOOTING.md) | 실제 오류, 원인 분석, 해결 및 재검증 상태 |
 | [테스트 기록](docs/TESTING.md) | 실제 통과·실패·재검증 결과 |
 | [아트 방향](docs/ART_DIRECTION.md) | UI, 맵, 이펙트 방향 |
 | [개발 환경](docs/SETUP.md) | Roblox Studio와 Rojo 설정 |
@@ -136,4 +137,4 @@ StarterPlayerScripts
 - 비공개 에셋 및 결제 ID: 비공개
 - README, 개발 기록, 테스트 결과, 스크린샷, 영상, 데모 링크: 공개 가능 범위에서 관리
 
-게임 소스는 이 포트폴리오의 배포 또는 사용 허가 대상이 아닙니다. 자세한 내용은 [`LICENSE`](LICENSE)를 확인할 수 있습니다.
+게임 소스는 로컬 Rojo 프로젝트 또는 비공개 GitHub 저장소에서 별도로 관리합니다. 이 포트폴리오의 배포 또는 사용 허가 대상이 아니며, 자세한 내용은 [`LICENSE`](LICENSE)를 확인할 수 있습니다.
