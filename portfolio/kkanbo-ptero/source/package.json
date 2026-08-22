@@ -1,0 +1,18 @@
+{
+  "name": "kkanbo-pterodactyl-status-bot",
+  "version": "3.1.0",
+  "private": true,
+  "description": "Simple public-facing Discord server overview for Pterodactyl with uptime and status notifications",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "check": "node --check src/index.js && node --check src/pterodactyl.js && node --check src/statusBoard.js"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "dependencies": {
+    "discord.js": "^14.0.0",
+    "dotenv": "^16.0.0"
+  }
+}
