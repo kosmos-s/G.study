@@ -2,7 +2,7 @@
 
 > Pterodactyl에서 운영 중인 게임 서버의 현재 상태를 Discord 접속자에게 간단하게 보여주기 위해 만든 상태 현황판 봇입니다.
 
-![Discord Server Status 결과 화면](./images/server-status.png)
+<img src="./images/server-status-v2.png" alt="Discord Server Status 결과 화면" width="452">
 
 ## 프로젝트 결과
 
@@ -125,7 +125,8 @@ kkanbo-ptero/
 ├─ README.md
 ├─ development-log.md
 ├─ images/
-│  └─ server-status.png
+│  ├─ server-status.png
+│  └─ server-status-v2.png
 ├─ release/
 │  └─ kkanbo-ptero-v3.1.zip
 └─ source/
